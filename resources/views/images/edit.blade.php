@@ -19,6 +19,7 @@
                         </div>
                     @endif
 
+                    
                     <form method="POST" action="{{ route('images.update', $post) }}">
                         @csrf
                         @method('PUT')
