@@ -13,7 +13,6 @@
         <ul class="flex space-x-4">
             <li><a href="{{ route('about') }}" class="text-gray-600 hover:text-gray-800">About Us</a></li>
             <li><a href="{{ route('contact') }}" class="text-gray-600 hover:text-gray-800">Contact</a></li>
-            <li><a href="{{ route('website') }}" class="text-gray-600 hover:text-gray-800">Dashboard</a></li>
         </ul>
     </nav>
 </header>
